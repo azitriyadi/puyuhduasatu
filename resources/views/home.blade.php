@@ -16,17 +16,13 @@
   <header>
     <input type="checkbox" name="" id="toggler">
     <label for="toggler" class="material-icons">menu</label>
-    <a href="#" class="logo">PuyuhDuasatu<span>.</span></a>
+    <a href="#" class="logo">PuyuhDuasatu</a>
     <nav class="navbar">
       <a href="#home">home</a>
       <a href="#product">product</a>
       <a href="#review">review</a>
       <a href="#contact">contact</a>
     </nav>
-    <div class="icon">
-      <a href="" class="material-icons">account_box</a>
-      <a href="" class="material-icons">shopping_cart_checkout</a>
-    </div>
   </header>
   <!--akhir header-->
 
@@ -34,9 +30,8 @@
   <section class="home" id="home">
     <div class="content">
       <h3>PuyuhDuasatu</h3>
-      <span>toko telur puyuh</span>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo iste fugit ad quasi quia atque placeat tempora id
-        iusto, soluta perspiciatis deleniti quos magnam itaque ab reprehenderit, facere eaque.</p>
+      <span>selamat datang</span>
+      <p> di website toko kami, wesite ini melampirkan tentang toko telur puyuh </p>
       <a href="#" class="btn">shop now</a>
     </div>
   </section>
@@ -52,11 +47,14 @@
         <img src="img/umkmpuyuh.jpeg" alt="poto">
       </div>
       <div class="content">
-        <h3>gihbibngib</h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro dolor, placeat suscipit voluptatem sunt
-          perspiciatis. Nihil blanditiis numquam consequuntur reprehenderit,</p>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nulla, aliquam adipisci incidunt, deserunt
-          perferendis quia non, dolorum possimus deleniti placeat.</p>
+        <h3>telur puyuh</h3>
+        <p>toko telur puyuhduasatu adalah bagian dari usaha kami yang bergerak untuk menjual sebuah produk telur puyuh dari hasil ternak burung puyuh ,
+          toko yang di pegang oleh bapa ayi sujana subah beroprasi dari tahun 2020 hingga sekarang
+        </p>
+        <p>telur puyuh sudah menjadi bagian makana pokok oleh orang orang dan enaka olahan makanan dengan telur puyuh dan juga
+          telur puyuh ini sudah digunakan di acara acara keluarga seperti pernikahan , makan bersama.Serta telur puyuh meiliki hasiat yang baik untuk organ tubuh
+          dan tentunya baik untuk kesehatan manusia.
+        </p>
         <a href="" class="btn">learn more</a>
       </div>
     </div>
@@ -131,13 +129,12 @@
           <i class="fa fa-star"></i>
           <i class="fa fa-star-half-alt"></i>
         </div>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus veniam atque dolor iusto molestias, ad vel
-          expedita quo, doloribus adipisci temporibus dolore recusandae quae neque harum deleniti porro itaque. Soluta?
+        <p> woww telur puyuh kondisi baik dan pemilik toko ini sangat ramah dan harga pas untuk di kantong
         </p>
         <div class="user">
          <img src="img/user1.jpeg" alt="potouser">
           <div class="user-info">
-            <h3>nama</h3>
+            <h3>budi</h3>
             <span>happy costumer</span>
           </div>
         </div>
