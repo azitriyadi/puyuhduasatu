@@ -153,7 +153,7 @@
         <div class="user">
         <img src="https://via.placeholder.com/60" alt="potouser">
           <div class="user-info">
-            <h3>nama</h3>
+            <h3>ridwan</h3>
             <span>happy costumer</span>
           </div>
         </div>
@@ -172,7 +172,7 @@
         <div class="user">
          <img src="https://via.placeholder.com/60" alt="potouser">
           <div class="user-info">
-            <h3>nama</h3>
+            <h3>zahra</h3>
             <span>happy costumer</span>
           </div>
         </div>
@@ -183,7 +183,7 @@
   <!--akhir review-->
   <!--contanct-->
   <section class = "contact" id="contact">
-    <h1 class="heading"><span> contact </span> us </h1>
+    <h1 class="heading"><span> contact </span> kami </h1>
     <div class="row">
       <form action="">
         <input type="text" placeholder="home" class="box">
@@ -198,6 +198,7 @@
     </div>
 
   </section>
+  <!--akhir contact-->
 
 </body>
 
