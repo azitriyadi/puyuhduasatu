@@ -294,6 +294,7 @@ header label.material-icons {
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
+    align-items: center;
 }
 .contact.row form{
     flex: 1 1 40rem;
