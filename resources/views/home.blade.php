@@ -36,7 +36,7 @@
       <h3>PuyuhDuasatu</h3>
       <span>toko telur puyuh</span>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo iste fugit ad quasi quia atque placeat tempora id
-        iusto, soluta perspiciatis deleniti quos magnam itaque ab reprehenderit, facere eaque. Eaque.</p>
+        iusto, soluta perspiciatis deleniti quos magnam itaque ab reprehenderit, facere eaque.</p>
       <a href="#" class="btn">shop now</a>
     </div>
   </section>
@@ -54,43 +54,14 @@
       <div class="content">
         <h3>gihbibngib</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro dolor, placeat suscipit voluptatem sunt
-          perspiciatis. Nihil blanditiis numquam consequuntur reprehenderit, officia deleniti aliquam animi suscipit
-          ipsam
-          ex consectetur perspiciatis porro!</p>
+          perspiciatis. Nihil blanditiis numquam consequuntur reprehenderit,</p>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nulla, aliquam adipisci incidunt, deserunt
-          perferendis quia non, dolorum possimus deleniti placeat. Nulla ullam a molestias nobis libero perferendis vero
-          facilis.</p>
+          perferendis quia non, dolorum possimus deleniti placeat.</p>
         <a href="" class="btn">learn more</a>
       </div>
     </div>
   </section>
   <!--akhir about-->
-
-  <!--icon-->
-  <section class="icon-container">
-    <div class="icons">
-      <img src="img/delivery-truck-removebg-preview.png" alt="">
-      <div class="info">
-        <h3>gratis ongkir</h3>
-        <span>berlaku untuk semua pembelian</span>
-      </div>
-    </div>
-    <div class="icons">
-      <img src="img/money-bag-removebg-preview.png" alt="">
-      <div class="info">
-        <h3>10 days retruns</h3>
-        <span>money gerantee</span>
-      </div>
-    </div>
-    <div class="icons">
-      <img src="img/payment-removebg-preview.png" alt="">
-      <div class="info">
-        <h3>soure payment</h3>
-        <span>protected by rekening</span>
-      </div>
-    </div>
-  </section>
-  <!--akhir icon-->
 
   <!--produk-->
   <section class="product" id="product">

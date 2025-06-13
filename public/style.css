@@ -165,37 +165,6 @@ header label.material-icons {
     padding-top: 1rem;
     line-height: 1.5;
 }
-.icon-container{
-    background: #eee;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-}
-.icon-container .icons{
-    background: #fff;
-    border: .1rem solid rgba(0, 0, 0, .1);
-    padding: 2rem;
-    display: flex;
-    align-items: center;
-    flex: 1 1 25rem;
-}
-.icon-container .icons img{
-    height: 5rem;
-    margin-right: 2rem;
-
-}
-.icon-container .icons h3{
-    color: #333;
-    padding-bottom: .5rem;
-    font-size: 1.5rem;
-}
-.icon-container .icons span{
-    color: #555;
-    font-size: 1.3rem;
-}
-
 .product .box-container{
     display: flex;
     flex-wrap: wrap;
@@ -321,36 +290,6 @@ header label.material-icons {
     object-fit: cover;
    margin-right: 1.5rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width:991px) {
     html {
